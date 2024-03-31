@@ -1,6 +1,6 @@
 # Matrix Effect - Aplicación Android Compose
 
-Esta aplicación para Android, desarrollada en Kotlin con el uso de Jetpack Compose, replica la icónica imagen gráfica de la película "Matrix". 
+Esta aplicación para Android, desarrollada en Kotlin con el uso de Jetpack Compose, replica la icónica imagen gráfica de la película "Matrix", con letras verdes cayendo en una pantalla de ordenador. 
 
 ## Descripción
 
@@ -14,7 +14,8 @@ La aplicación simula el efecto visual de las letras verdes cayendo en una panta
 - Implementación utilizando Jetpack Compose para una interfaz de usuario moderna y flexible.
 
 ## Capturas de Pantalla
-![Captura de pantalla 2024-03-31 a las 1 42 30 (2)](https://github.com/aiglesiasp/MatrixRain/assets/107586474/060dfe0e-f741-40d2-a0ba-51e95dc83283)
+
+_Inserta aquí capturas de pantalla de la aplicación en acción._
 
 ## Instalación
 
@@ -37,4 +38,6 @@ Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
 4. Sube tus cambios (`git push origin feature/nueva-caracteristica`).
 5. Abre un pull request.
 
-## Licencia
+## **Licencia**
+
+Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE.md](LICENSE.md) para más detalles.
